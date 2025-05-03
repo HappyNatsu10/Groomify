@@ -1,6 +1,6 @@
 "use client"
 import React, { useState } from "react";
-import { useRouter } from 'next/router';
+import { useRouter } from 'next/navigation';
 
 // Define an interface for the component props
 interface ButtonProps {
@@ -30,7 +30,6 @@ const handleClick = () => {
 };
 
 return (
-  
   <button
     className="text-[17px] px-6 py-3 rounded-xl font-[600] transition-colors duration-300 cursor-pointer"
     style={{
