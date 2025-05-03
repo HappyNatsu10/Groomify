@@ -49,6 +49,7 @@ export default function Services() {
                     hoverColor="#fff"
                     content="Book Appointment"
                     borderColor='none'
+                    to="#"
                     />
                 </div>
             </div>

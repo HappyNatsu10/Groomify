@@ -19,6 +19,7 @@ export default function Hero() {
                 hoverColor="#fff"
                 content="Book Appointment"
                 borderColor='none'
+                to="#"
                 />
             </div>
             <div className="relative lg:w-[480px] mx-6 lg:h-[650px] h-[500px] w-[380px] bg-[url('/herodog.png')] bg-cover bg-center rounded-[25px] ">

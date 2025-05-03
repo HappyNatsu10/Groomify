@@ -25,6 +25,7 @@ export default function Navigation() {
                     hoverColor="#fff"
                     content="Book Appointment"
                     borderColor='none'
+                    to="#"
                     />
                 </div>
             </div>
